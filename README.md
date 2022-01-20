@@ -1,6 +1,7 @@
 # Kafka Cluster on AWS
 
 ## Architecture Overview
+![Kafka Cluster on AWS](./kafka-cluster-aws.png)
 
 
 ## Directory Structure
